@@ -9,13 +9,14 @@ int main()
     return 0;
 }
 
-int func_two()
-{
-    return 2;
-}
-
 int func_one()
 {
     return 1;
 
 }
+    
+int func_two()
+{
+    return 2;
+}
+
